@@ -1,0 +1,86 @@
+import './chat.css';
+function Chat() {
+  return (
+    <div className="chat-container">
+        <div className="top"></div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="question">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="answer">where an i find the details of homework,clubs and all other fucking details.</div>
+        <div className="bot"></div>
+        </div>
+  );
+}
+export default Chat;

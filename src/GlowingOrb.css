@@ -1,9 +1,10 @@
 .container {
     background-color: #620cf8;
     opacity: 1;
+    margin-left: 20%;
   width: auto;
   top: 300px;
-  position: absolute;
+  position: relative;
   display: flex;
   justify-self: center;
   align-items: center;
@@ -18,26 +19,24 @@
     height: 200px;
     box-shadow: #9e13d4 -10px -10px 50px, #074fa1 0 0 0px, #052fea 10px 10px 50px, #ffffff 0 0 70px;
     filter: blur(5px);
-    animation: rotate 1s ,
-    pulse 5s linear infinite forwards;
+    animation:  pulse 5s linear infinite forwards;
 }
 .b{
     position: absolute;
     width: 80px;
     height: 80px;
     filter: blur(30px);
-    animation: pulse 5s linear infinite reverse;
-}
-
-@keyframes rotate {
-    0% {
-        transform: rotate(0deg);
-    }
-    100% {
-        transform: rotate(360deg);
-    }
     
 }
+
+.a:hover + .b{
+    animation: pulse 1s linear infinite reverse;
+}
+.b:hover {
+    animation: pulse 1s linear infinite reverse;
+}
+
+
 
 @keyframes pulse {
     0% {

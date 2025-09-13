@@ -6,10 +6,7 @@ function Nav(){
         <div className="navcontain">
             <button className="option">Home</button>
             <button className="option">Faculty</button>
-        <div className=" search-wrap">
-            <input type="text" name="search" id="keyword" />
-            <button className="searsubmit"></button>
-        </div>
+       
 
       
             <button className="option">Clubs</button>

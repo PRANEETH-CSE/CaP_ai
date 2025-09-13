@@ -1,6 +1,9 @@
 import { useState } from 'react'
 import './App.css'
+import Chat from './chat.jsx';
+import Ask from './question.jsx';
 import Nav from './Navbar.jsx'
+import History from './history.jsx';
 import DotGrid from './grid_back.jsx';
 import Index from './glowingorb.jsx'
 
@@ -13,7 +16,9 @@ function App() {
   <>
   <DotGrid/>
   <Nav/>
-  <Index/>
+  <History/>
+  <Chat/>
+  <Ask/>
   </>
   )
 }
